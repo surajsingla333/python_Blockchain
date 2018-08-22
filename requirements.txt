@@ -59,7 +59,7 @@ Pygments==2.2.0
 pygobject==3.29.3.dev0
 pyparsing==2.2.0
 python-dateutil==2.7.3
-python-debian==0.1.27
+python-debian==0.1.33
 python-systemd==231
 pytz==2018.5
 pyxdg==0.25
