@@ -56,7 +56,7 @@ pycrypt==0.7.2
 pycups==1.9.73
 pycurl==7.43.0
 Pygments==2.2.0
-pygobject==3.20.0
+pygobject==3.29.3.dev0
 pyparsing==2.2.0
 python-apt===1.1.0.b1-elementary2-r2-ubuntu0.4.1.1
 python-dateutil==2.7.3
