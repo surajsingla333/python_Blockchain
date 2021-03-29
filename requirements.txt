@@ -55,7 +55,7 @@ ptyprocess==0.6.0
 pycrypt==0.7.2
 pycups==1.9.73
 pycurl==7.43.0
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.29.3.dev0
 pyparsing==2.2.0
 python-dateutil==2.7.3
